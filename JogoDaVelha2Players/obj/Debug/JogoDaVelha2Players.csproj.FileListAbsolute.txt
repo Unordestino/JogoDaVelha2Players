@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\bin\Debug\JogoDaVelha2Players.exe.config
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\bin\Debug\JogoDaVelha2Players.exe
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\bin\Debug\JogoDaVelha2Players.pdb
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\obj\Debug\JogoDaVelha2Players.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\obj\Debug\JogoDaVelha2Players.Form1.resources
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\obj\Debug\JogoDaVelha2Players.Properties.Resources.resources
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\obj\Debug\JogoDaVelha2Players.csproj.GenerateResource.cache
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\obj\Debug\JogoDaVelha2Players.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\obj\Debug\JogoDaVelha2Players.exe
+C:\Users\David\source\repos\JogoDaVelha2Players\JogoDaVelha2Players\obj\Debug\JogoDaVelha2Players.pdb
